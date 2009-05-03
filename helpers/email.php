@@ -1,6 +1,8 @@
 <?php defined('SYSPATH') OR die('No direct access allowed.');
+
 /**
  * Email helper class for Swift 4.
+ * Uses standard kohana email config format (see http://docs.kohanaphp.com/helpers/email)
  *
  * @author      Matt (matt@ninjapenguin.co.uk)
  * @url         www.ninjapenguin.co.uk
